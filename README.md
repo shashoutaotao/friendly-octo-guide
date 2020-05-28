@@ -6,6 +6,10 @@ findDuplicateNumber no. 287 https://leetcode-cn.com/problems/find-the-duplicate-
 
 - find the duplicate number in a vector of size n containing value from 1 to n-1
 
-subarrayDivByK no.974 https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/
+subarrayDivByK no. 974 https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/
 
-- find the number of subarrays that has sum dividable by K.
+- find the number of subarrays that has sum dividable by K
+
+decodeString no. 394 https://leetcode-cn.com/problems/decode-string/
+
+- decode an encode string, i.e. "3[a]2[bc]" into "aaabcbc"
