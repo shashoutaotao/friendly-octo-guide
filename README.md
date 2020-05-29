@@ -13,3 +13,7 @@ subarrayDivByK no. 974 https://leetcode-cn.com/problems/subarray-sums-divisible-
 decodeString no. 394 https://leetcode-cn.com/problems/decode-string/
 
 - decode an encode string, i.e. "3[a]2[bc]" into "aaabcbc"
+
+rob no. 198 https://leetcode-cn.com/problems/house-robber/
+
+- use dynamic programming to planning house-robbing
