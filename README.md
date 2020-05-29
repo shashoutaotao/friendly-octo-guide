@@ -16,4 +16,4 @@ decodeString no. 394 https://leetcode-cn.com/problems/decode-string/
 
 rob no. 198 https://leetcode-cn.com/problems/house-robber/
 
-- use dynamic programming to planning house-robbing
+- use dynamic programming to plan house-robbing
