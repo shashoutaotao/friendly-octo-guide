@@ -14,6 +14,12 @@ decodeString no. 394 https://leetcode-cn.com/problems/decode-string/
 
 - decode an encode string, i.e. "3[a]2[bc]" into "aaabcbc"
 
+# Dynamic Programming
+
 rob no. 198 https://leetcode-cn.com/problems/house-robber/
 
-- use dynamic programming to planning house-robbing
+- get most amount of $ without robbing consecutive houses
+
+uniquePath no. 62 https://leetcode-cn.com/problems/unique-paths/
+
+- find the number of paths in a m * n grid
