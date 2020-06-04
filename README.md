@@ -14,6 +14,10 @@ decodeString no. 394 https://leetcode-cn.com/problems/decode-string/
 
 - decode an encode string, i.e. "3[a]2[bc]" into "aaabcbc"
 
+productExceptSelf no. 238 https://leetcode-cn.com/problems/product-of-array-except-self/
+
+- return an array with index i having the product of every other element in the orginal array except i
+
 # Dynamic Programming
 
 rob no. 198 https://leetcode-cn.com/problems/house-robber/
