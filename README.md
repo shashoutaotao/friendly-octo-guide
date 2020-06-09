@@ -27,3 +27,8 @@ rob no. 198 https://leetcode-cn.com/problems/house-robber/
 uniquePath no. 62 https://leetcode-cn.com/problems/unique-paths/
 
 - find the number of paths in a m * n grid
+
+translateNum no. 46 (interview) https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/
+
+- count the number of ways to translate a number into letters
+
